@@ -2,9 +2,9 @@ window.streams = {
     timeRefresh: 10000,
     stations: [
         {
-            name: "Champeta Online",
+            name: "EN VIVO",
             hash: "",
-            description: "Solo Exitos",
+            description: "Exitos 24/7",
             logo: "",
             album: "assets1/radio_cover.webp",
             cover: "",
